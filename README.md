@@ -1,7 +1,7 @@
 # MedincN
 ⚕北京市原研药查询页
 
-https://fcnyqieh86tz.feishu.cn/share/base/query/shrcn929cwBrGa1OoP8rRbKNCs3
+http://bit.ly/4mQ9rkh
 
 输入药品拼音首字母，如玛巴洛沙韦输入MB即可，输入越完整查询结果越精准。
 常规收录医院除航天总院外只收录三级或以上医院，特殊药品只有二级医院有库存时记录二级医院
