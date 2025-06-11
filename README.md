@@ -8,3 +8,7 @@ http://bit.ly/4mQ9rkh
 参与维护，纠正请联系mengke@pku.org.cn
 
 协助维护请加微信: LeuvenKU(备注执业医院)
+
+特别鸣谢：
+
+清华长庚医院，北医三院，航空总院
