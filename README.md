@@ -1,6 +1,7 @@
 # MedincN
 ⚕北京市原研药查询页
-[https://fcnyqieh86tz.feishu.cn/share/base/query/shrcn929cwBrGa1OoP8rRbKNCs3](https://s.c1ns.cn/7pN1r)
+
+https://s.c1ns.cn/7pN1r
 
 http://bit.ly/4mQ9rkh
 
