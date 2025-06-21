@@ -44,6 +44,7 @@ http://bit.ly/4mQ9rkh
 | 单次立即       | semel statim    | Semel Stat.| 术前抗生素（头孢唑林Semel Stat.）|
 | 强制回收包装   | Recycling Packaging| RTP       | 芬太尼透皮贴（RTP）         |
 | 麻醉专用       | Anesthesia Only | Anes Only | 丙泊酚（Anes Only）          |
+| 麻醉专用       | Non Facial Use | NFF | 醋酸地塞米松片          |
 
 ## ⏱️ 高精度时间间隔
 
