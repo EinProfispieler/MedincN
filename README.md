@@ -47,6 +47,7 @@ http://bit.ly/4mQ9rkh
 | 面部禁用       | Not For Facial | NFF | 醋酸地塞米松片          |
 | 滴注       | intravenosus | iv | 贝伐珠单抗注射液          |
 | 静脉滴注       | intravenosus guttae | iv gtt | 西妥昔单抗注射液          |
+| 眼用       | pro oculis | pro ocul  | 奥洛他定滴眼液          |
 
 ## ⏱️ 高精度时间间隔
 
