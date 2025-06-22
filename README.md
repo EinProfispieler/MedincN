@@ -44,7 +44,7 @@ http://bit.ly/4mQ9rkh
 | 单次立即       | semel statim    | Semel Stat.| 术前抗生素（头孢唑林Semel Stat.）|
 | 强制回收包装   | Recycling Packaging| RTP       | 芬太尼透皮贴（RTP）         |
 | 麻醉专用       | Anesthesia Only | Anes Only | 丙泊酚（Anes Only）          |
-| 面部禁用       | Non For Facial | NFF | 醋酸地塞米松片          |
+| 面部禁用       | Not For Facial | NFF | 醋酸地塞米松片          |
 | 滴注       | intravenosus | iv | 贝伐珠单抗注射液          |
 | 静脉滴注       | intravenosus guttae | iv gtt | 西妥昔单抗注射液          |
 
