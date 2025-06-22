@@ -92,7 +92,7 @@ http://bit.ly/4mQ9rkh
       <td>航空总院</td>
     </tr>
     <tr>
-      <td>顺义医院</td>
+      <td>北京大学肿瘤医院</td>
       <td>朝阳医院</td>
       <td>北京大学医学部</td>
     </tr>
