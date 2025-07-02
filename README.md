@@ -52,6 +52,9 @@ Medicine Record: 271
 | 静脉滴注       | intravenosus guttae | iv gtt | 西妥昔单抗注射液          |
 | 眼用       | pro oculis | pro ocul  | 奥洛他定滴眼液          |
 | 口用       | Per Os | PO  | 甲磺酸仑伐替尼胶囊          |
+| 肌注       | Injectio musculosa | IM  | 注射用多种维生素(12)          |
+| 敷料包扎       | Occlusive Dressing | OD  | 莫匹罗星软膏          |
+| 注入膝关节腔       | intra-articular injection | IA inj  | 玻璃酸钠注射液​​          |
 
 ## ⏱️ 高精度时间间隔
 
@@ -75,7 +78,7 @@ Medicine Record: 271
 | 周期冲击     | cum curis impulsu            | CCI    | 甲泼尼龙 1g IV qd ×3d (CCI)          |
 | 按方案递增   | gradualis augmentum          | GA     | 维奈克拉 W1:20mg→W2:80mg po QD (GA) |
 | 遵医嘱调整   | pro medico judicatio         | PMJ    | 华法林 3mg po QD (PMJ)               |
-
+| 临睡前     | hora somni | HS    | 氨酚伪麻美芬片(日片)/氨麻美敏片Ⅱ(夜片)       |
 
 
 <div class="notice">
