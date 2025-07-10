@@ -56,6 +56,7 @@ Medicine Record: 302
 | 敷料包扎       | Occlusive Dressing | OD  | 莫匹罗星软膏          |
 | 注入膝关节腔       | intra-articular injection | IA inj  | 玻璃酸钠注射液​​          |
 | 滴       | guttae | gtt  | 酒石酸溴莫尼定滴眼液​​​​          |
+| 滴       | ter in hebdomada | TIH  | 咪喹莫特乳膏​​​​          |
 
 ## ⏱️ 高精度时间间隔
 
