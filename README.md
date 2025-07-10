@@ -79,7 +79,7 @@ Medicine Record: 302
 | 按方案递增   | gradualis augmentum          | GA     | 维奈克拉 W1:20mg→W2:80mg po QD (GA) |
 | 遵医嘱调整   | pro medico judicatio         | PMJ    | 华法林 3mg po QD (PMJ)               |
 | 临睡前     | hora somni | HS    | 氨酚伪麻美芬片(日片)/氨麻美敏片Ⅱ(夜片)       |
-
+| 餐前     | ​	ante cibum | AC    | ​​格列美脲片       |
 
 <div class="notice">
   <h3>🔬 北京市毒蛇血清库存</h3>
