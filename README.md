@@ -89,6 +89,7 @@ Medicine Record: 302
   
   <h3>🚫 药品下架通知</h3>
   <p>依那西普 (皮肤科) 已不再适用本系统收录标准，不再显示库存信息</p>
+    <p>礼来 欣百达 已经退出中国市场</p>
 </div>
 
 <div class="thank-section">
